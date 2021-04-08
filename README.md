@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hello and Welcome 👋
+
+😄 Pronouns: he/him/his
+💬 Ask me about: Munki, MDM, JumpCloud, 🎸🎶 The Strokes, and the Nationals ⚾️
+📚 Read more: [Cannonball](https://tombridge.com)
+🎧 Listen more: [Mac Admins Podcast](https://podcast.macadmins.org)
 
 <!--
-**tbridge/tbridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tbridge/tbridge** is a ✨ _special_ ✨ repository b
+ecause its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
